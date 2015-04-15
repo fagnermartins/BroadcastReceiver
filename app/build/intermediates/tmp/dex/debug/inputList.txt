@@ -1,0 +1,1 @@
+C:\Users\Fagner\AndroidStudioProjects\BroadcastReceiver\app\build\intermediates\classes\debug
